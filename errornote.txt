@@ -1,0 +1,16 @@
+> git push -u origin main
+kex_exchange_identification: read: Software caused connection abort
+banner exchange: Connection to 140.82.121.3 port 22: Software caused connection abort
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+
+PS C:\Users\feyya\OneDrive\Desktop\Test102>  git push --set-upstream origin okturkcan
+kex_exchange_identification: read: Software caused connection abort
+banner exchange: Connection to 140.82.121.4 port 22: Software caused connection abort
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
